@@ -4,7 +4,7 @@
 
 Based in Vietnam. I specialize in high-performance game development with Unreal Engine 5, low-level reverse engineering, and scalable web architectures.
 
-[Website: nguyendinhdat.me](https://nguyendinhdat.me) | [Steam Profile](https://steamcommunity.com/id/DAT1305)
+[Website: nguyendinhdat.me](https://nguyendinhdat.me) | [Steam Profile](https://steamcommunity.com/profiles/76561199477949148/)
 
 ---
 
